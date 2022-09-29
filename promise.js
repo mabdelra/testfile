@@ -24,3 +24,4 @@ const myPromise = new Promise((resolve, reject) => {
 .then(newValue => console.log(newValue))
 
 .catch(rejectValue => console.log(rejectValue))
+
